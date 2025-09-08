@@ -21,9 +21,14 @@ Die Einleitung gibt einen Überblick über verschiedene Möglichkeiten in LiaScr
 
 Wir kochen Buchstabensuppe (Speedrun)
 
-- LiaScript Datei: ./Kochkurs.md
-- LiaScript gerendert: https://liascript.github.io/course/?https://raw.githubusercontent
-- LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/SODa-Tutorial/refs/heads/main/Kochkurs.md
+- LiaScript Datei: [Kochkurs](./Kochkurs.md)
+- LiaScript gerendert: https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Delfi-2025-Workshop-AI-supported-course-creation-with-LiaScript/refs/heads/main/Kochkurs.md
+- LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/Delfi-2025-Workshop-AI-supported-course-creation-with-LiaScript/refs/heads/main/Kochkurs.md
 
 
-## 3. Prompting für Bildung & KI Tools
+## 3. Prompting Verlag & KI Tools
+
+- LiaScript Datei: [Prompting](./Prompting.md)
+- LiaScript gerendert: https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Delfi-2025-Workshop-AI-supported-course-creation-with-LiaScript/refs/heads/main/Prompting.md
+- LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/Delfi-2025-Workshop-AI-supported-course-creation-with-LiaScript/refs/heads/main/Prompting.md
+

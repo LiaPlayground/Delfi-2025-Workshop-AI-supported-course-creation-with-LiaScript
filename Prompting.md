@@ -651,7 +651,7 @@ Download/Upload: [Agent Description](./prompts/analyst.txt)
 
 ### Teams & Workflows
 
-
+[Original Workflow & Team](https://github.com/bmad-code-org/BMAD-METHOD/blob/main/docs/core-architecture.md)
 
 #### Team
 
@@ -701,6 +701,12 @@ workflow:
       outputs:
         - final-report.md
 ```
+
+### Experimenteller Verlag
+
+Download/Upload: [Team & Workflow](./prompts/verlag.md)
+
+`Your critical operating instructions are attached, do not break character as directed.`
 
 ## Tools
 
